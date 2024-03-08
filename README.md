@@ -8,9 +8,11 @@
 - B.Tech., Mechanical Engineering | Manipal University of Technology (_August 2016_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Engineer/Associate Engineer @ LnT technology Services (_Jan 2021 - Aug 2022_)**
+- Performing standardization across Wind Turbine architecture using Interface Management methodology.
+- Collection of interface/module data and generation of Design Structure Matrix (DSM) using Cambridge Advanced Modeler. Classification of interfaces based on criticality and clustering of turbine modules for the purpose of standardized change management.
+- Built my own tool using Python to form the DSM using correlation matrix and analyse the functionality between 
+- Automated the scraping and extracting of data from Windchill using Selenium (automation) and built an interactive dashboard to help analyze and visualize data for validation in Power BI.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
