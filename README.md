@@ -8,15 +8,27 @@
 - B.Tech., Mechanical Engineering | Manipal University of Technology (_August 2016_)
 
 ## Work Experience
-**Engineer/Associate Engineer @ LnT technology Services (_Jan 2021 - Aug 2022_)**
+**Engineer/Associate Engineer @ LnT Technology Services (_Jan 2021 - Aug 2022_)**
 - Performing standardization across Wind Turbine architecture using Interface Management methodology.
-- Collection of interface/module data and generation of Design Structure Matrix (DSM) using Cambridge Advanced Modeler. Classification of interfaces based on criticality and clustering of turbine modules for the purpose of standardized change management.
-- Built my own tool using Python to form the DSM using correlation matrix and analyse the functionality between 
+- Collection of interface/module data and generation of Design Structure Matrix (DSM) using Cambridge Advanced Modeler. Classification of interfaces based on criticality and clustering of turbine modules for standardized change management.
+- Built my tool using Python to form the DSM using a correlation matrix and analyse the functionality between 
 - Automated the scraping and extracting of data from Windchill using Selenium (automation) and built an interactive dashboard to help analyze and visualize data for validation in Power BI.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Automotive Research Intern @ Gannet Engineering Pvt. Ltd. (_Jan 2020 to May 2020_)**
+- Collection of engine testing points using Latin Hypercube Sampling, Box-Behnkehn, and other DoE methods.
+- Generated models for engine emissions (NOx and Soot) using regression analysis and Machine learning techniques.
+- The generated models were compared with an aim of selecting the model below 10% error rate
+- Optimization of emissions trade-off using Cal-G software.
+- Development of GUI for Electronic Control Unit using Raptor Model-Based Development
+
+**Mechanical Head, DY. Project Manager @ ThrustMIT (_Sep 2017 - Aug 2019_)**
+Team thrustMIT, Manipal Academy of Higher Education’s Rocketry team
+Project: Design, Analysis & Fabrication of Sounding Rocket for Spaceport America 2019, New Mexico, USA
+Led the team of 24 members as the Mechanical Head and Deputy project Manager for the event
+Subprojects:
+- Design, analysis and manufacturing of structural components like bulkheads using CATIA and ANSYS
+- Fabrication of Rocket fuselage and tube couplers using Composite materials.
+- Developing a custom ejection system for parachute deployment.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
