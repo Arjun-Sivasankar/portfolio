@@ -21,11 +21,10 @@
 - Optimization of emissions trade-off using Cal-G software.
 - Development of GUI for Electronic Control Unit using Raptor Model-Based Development
 
-**Mechanical Head, DY. Project Manager @ ThrustMIT (_Sep 2017 - Aug 2019_)**
-Team thrustMIT, Manipal Academy of Higher Education’s Rocketry team
-Project: Design, Analysis & Fabrication of Sounding Rocket for Spaceport America 2019, New Mexico, USA
-Led the team of 24 members as the Mechanical Head and Deputy project Manager for the event
-Subprojects:
+**Mechanical Head, DY. Project Manager @ ThrustMIT, Manipal Academy of Higher Education’s Rocketry team (_Sep 2017 - Aug 2019_)**
+- Design, Analysis & Fabrication of Sounding Rocket for Spaceport America 2019, New Mexico, USA
+- Led the team of 24 members as the Mechanical Head and Deputy project Manager for the event
+##### Subprojects:
 - Design, analysis and manufacturing of structural components like bulkheads using CATIA and ANSYS
 - Fabrication of Rocket fuselage and tube couplers using Composite materials.
 - Developing a custom ejection system for parachute deployment.
