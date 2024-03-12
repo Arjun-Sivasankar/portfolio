@@ -8,6 +8,10 @@
 - B.Tech., Mechanical Engineering | Manipal University of Technology (_August 2016_)
 
 ## Work Experience
+**WHK/SHK (Research Assistant) @ Vodafone Chair Mobile Communication Systems (_May 2023 - Present_)**
+- Data preprocessing and building models for Access Interval Prediction of Hardware Accelerators.
+- built scripts for Quantization Aware Training (QAT) for lower bitwidth i.e. <8 bits simulating their behaviour using FakeQuantization.
+
 **Engineer/Associate Engineer @ LnT Technology Services (_Jan 2021 - Aug 2022_)**
 - Performing standardization across Wind Turbine architecture using Interface Management methodology.
 - Collection of interface/module data and generation of Design Structure Matrix (DSM) using Cambridge Advanced Modeler. Classification of interfaces based on criticality and clustering of turbine modules for standardized change management.
