@@ -1,16 +1,16 @@
 # Master's Student @ TU Dresden
 
-#### Technical Skills: Python, SQL, MATLAB
-#### Frameworks: Tensorflow, Pytorch
+#### Technical Skills: Python, SQL, R, GIT, MATLAB/Simulink, basics of C++, JavaScript, HTML5, CSS
+#### Frameworks: Tensorflow, Pytorch, Numpy, Scikit learn, Pandas, OpenCV
 
 ## Education								       		
-- M.S., Computational Modeling & Simulation | Technical University of Dresden (_September 2022_)	 			        		
-- B.Tech., Mechanical Engineering | Manipal University of Technology (_August 2016_)
+- M.S., Computational Modeling & Simulation | Technische Universität Dresden (_September 2022_)	 			        		
+- B.Tech., Mechanical Engineering | Manipal Institute of Technology (_August 2016_)
 
 ## Work Experience
 **WHK/SHK (Research Assistant) @ Vodafone Chair Mobile Communication Systems (_May 2023 - Present_)**
-- Data preprocessing and building models for Access Interval Prediction of Hardware Accelerators.
-- built scripts for Quantization Aware Training (QAT) for lower bit-widths i.e. <8 bits simulating their behaviour using FakeQuantization.
+- Data preprocessing and building deep learning models for Access Interval Prediction of memory accesses in Hardware Accelerators in Tensorflow.
+- Built scripts for Quantization Aware Training (QAT) for lower bit-widths i.e. <8 bits, using Pytorch, simulating their behavior using FakeQuantization.
 
 **Engineer/Associate Engineer @ LnT Technology Services (_Jan 2021 - Aug 2022_)**
 - Performing standardization across Wind Turbine architecture using Interface Management methodology.
@@ -37,15 +37,15 @@
 - Used PFEP methodology as part of Lean strategy to create a comparative time study for Trugger, kit building, and supplier packaging of bearings.
 
 ## Projects
-### Hand Digit Recogniser [Link](https://github.com/Arjun-Sivasankar/Handwritten-Digits-Recog)
+### 1. Hand Digit Recogniser [Link](https://github.com/Arjun-Sivasankar/Handwritten-Digits-Recog)
 
 Developed a Hand Digit Recognizer using Computer Vision and classification algorithms in Python to accurately recognize hand-drawn digits.
 
-### ChatBot [Link](https://github.com/Arjun-Sivasankar/ChatBot)
+### 2. ChatBot [Link](https://github.com/Arjun-Sivasankar/ChatBot)
 
 Developed a chatbot using NLP techniques to provide customers with information about coffee and tea delivery services, while also incorporating features such as greetings, goodbyes, thanks, items, payments, delivery, and jokes.
 
-### Kaggle competition – Titanic Spaceship [Link](https://github.com/Arjun-Sivasankar/Spaceship-TitanicClassification_Kaggle)
+### 3. Kaggle competition – Titanic Spaceship [Link](https://github.com/Arjun-Sivasankar/Spaceship-TitanicClassification_Kaggle)
 
 Coded a solution for the binary classification problem to predict whether a passenger on the Spaceship Titanic were transported or not based on the "Spaceship-Titanic" dataset to achieve the highest accuracy possible.
 
