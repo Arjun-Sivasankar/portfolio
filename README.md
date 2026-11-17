@@ -1,3 +1,7 @@
+> **This is an earlier portfolio site, kept for history.** The current site is [arjun-sivasankar.github.io](https://arjun-sivasankar.github.io/), built from the [Arjun-Sivasankar.github.io](https://github.com/Arjun-Sivasankar/Arjun-Sivasankar.github.io) repository.
+>
+> The content below reflects 2024, when I was still a Master's student.
+
 # Master's Student @ TU Dresden
 
 #### Technical Skills: Python, SQL, R, GIT, MATLAB/Simulink, basics of C++, JavaScript, HTML5, CSS
